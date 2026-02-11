@@ -62,7 +62,7 @@ Follow these steps to clone and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/graemetennent-creator/login_project
+git clone https://github.com/graemetennent-creator/login_proj_1.git
 cd login_proj_1
 ```
 
