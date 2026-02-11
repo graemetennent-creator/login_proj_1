@@ -258,7 +258,7 @@ This project is unlicensed - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Your Name - Graeme Tennent - graeme.tennent@gmail.com
+Graeme Tennent - graeme.tennent@gmail.com
 
 Project Link: [https://github.com/graemetennent-creator/login_proj_1]
 
