@@ -234,9 +234,9 @@ cd ..
 
 Key packages used in this project:
 
-- `package_name`: Description of what it does
-- `another_package`: Description
-- `yet_another`: Description
+- `Flutter SDKs`: Flutter framework SDK file (https://docs.flutter.dev/install/quick)
+- `Dart SDKs`: SDK file for using Dart (https://dart.dev/get-dart)
+
 
 For a complete list, see `pubspec.yaml`.
 
@@ -250,20 +250,19 @@ For a complete list, see `pubspec.yaml`.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/yourusername/your-repo-name/tags).
+We use [SemVer](http://semver.org/) for versioning. For available versions, see the [tags on this repository](https://github.com/graemetennent-creator/login_proj_1.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is unlicensed - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - Graeme Tennent - graeme.tennent@gmail.com
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: [https://github.com/graemetennent-creator/login_proj_1]
 
 ## Acknowledgments
 
-- List any resources, contributors, or inspiration
-- Third-party assets or libraries
-- Special thanks
+- List any resources, contributors, or inspiration - Special mention to Julian... for already spotting how I can't use FIND + REPLACE functions...
+- Previously listed
