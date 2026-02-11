@@ -17,7 +17,8 @@ It does not include any backend or API methods to actually authenticate or login
 
 ## Screenshots
 
-[Add screenshots of your app here]
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## Requirements
 
@@ -61,8 +62,8 @@ Follow these steps to clone and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/graemetennent-creator/login_project
+cd login_proj_1
 ```
 
 ### 2. Verify Flutter Installation
@@ -93,6 +94,9 @@ If your project requires additional configuration:
 
 ### 5. Run the Application
 This application needs to use local Chrome application to debug and run locally. It has been set to use Chrome for simplicity.
+To do this select Chrome from the browser selection menu in VSCode (or your IDE)
+![alt text](image.png)
+
 
 #### For Mobile (Android/iOS)
 
